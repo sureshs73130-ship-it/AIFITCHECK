@@ -2,7 +2,7 @@
   "name": "ai-fittrack-api",
   "version": "1.0.0",
   "description": "RESTful Fitness Tracking API with Google Gemini AI integration",
-  "main": "src/server.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
